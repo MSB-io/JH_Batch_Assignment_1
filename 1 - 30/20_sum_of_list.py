@@ -1,0 +1,1 @@
+print(f"Sum of list: {sum(lst)}")
